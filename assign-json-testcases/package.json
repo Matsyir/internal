@@ -1,0 +1,11 @@
+{
+  "name": "muos-internal-assign-json-testcases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
